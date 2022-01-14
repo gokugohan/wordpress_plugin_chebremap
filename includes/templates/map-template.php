@@ -267,6 +267,9 @@ Laleia River Protection,MINISTERIO AGRIKULTURA E PESCAS,2017,126.171159,-8.53582
             attribution:
                 '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
         });
+
+        let imagery = L.tileLayer(
+            'http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
             {
                 attribution: 'Tiles &copy; <a href="https://www.esri.com">Esri</a> &mdash; Source: <a href="http://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer" target="_blank">Esri World_Imagery</a>'
             });
@@ -278,7 +281,7 @@ Laleia River Protection,MINISTERIO AGRIKULTURA E PESCAS,2017,126.171159,-8.53582
             center: [-8.787519, 125.946401],
             zoom: 9,
             layers: [osmBasemap],
-            zoomControl: false,
+            zoomControl: true,
             scrollWheelZoom: false,
             attributionControl: false,
         });
