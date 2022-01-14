@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a077f3e3-e0b8-4d9e-a918-f819f5951b4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23KF0dbxxJmCfSwjxBCINbkwwYY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/includes/templates/css/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\includes\templates\css\images" />
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\includes\templates\css" />
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\includes\templates\images" />
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\includes\templates\js" />
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\admin\partials\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\admin\partials" />
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\public\partials\js" />
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\includes\templates" />
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\public" />
+      <recent name="C:\laragon\www\president\wp-content\plugins\chebre-map\includes\templates\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a077f3e3-e0b8-4d9e-a918-f819f5951b4c" name="Default Changelist" comment="" />
+      <created>1641474649481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641474649481</updated>
+      <workItem from="1641474650622" duration="12219000" />
+      <workItem from="1641543168757" duration="22000" />
+      <workItem from="1641543204316" duration="14258000" />
+      <workItem from="1641794486023" duration="14190000" />
+      <workItem from="1642117408256" duration="18981000" />
+      <workItem from="1642139233812" duration="3111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\laragon\www\president</wordpressPath>
+  </component>
+</project>
